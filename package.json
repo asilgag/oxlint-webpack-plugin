@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An OxLint plugin for webpack",
   "main": "index.js",
+  "types": "types.d.ts",
   "keywords": [
     "oxlint",
     "lint",
