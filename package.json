@@ -1,6 +1,6 @@
 {
   "name": "oxlint-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An OxLint plugin for webpack",
   "main": "index.js",
   "types": "types.d.ts",
