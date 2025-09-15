@@ -45,11 +45,11 @@ pnpm add -D oxlint
 Then add the plugin to your webpack configuration. For example:
 
 ```js
-const OxLintWebpackPlugin = require("oxlint-webpack-plugin");
+const { OxLintWebpackPlugin } = require("oxlint-webpack-plugin");
 
 module.exports = {
   // ...
-  plugins: [new OxLintWebpackPlugin(options)],
+  plugins: [new OxLintWebpackPlugin(options)]
   // ...
 };
 ```
